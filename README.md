@@ -6,7 +6,7 @@
 <hr>
 
 <h1>Olá estranho !</h1>
-Eu sou a Pri! Desenvolvedora Fullstack Jr. e você está no meu perfil do github, aqui você encontra alguns projetos e materiais de estudo com algumas linguagens, fique a vontade estranho e qualquer dúvida pode me chamar para conversarmos, este é meu endereço de e-mail: pri.damasceno@live.com
+Eu sou a Pri! Desenvolvedora Fullstack Jr. e você está no meu perfil do github, aqui você encontra alguns projetos e materiais de estudo com algumas linguagens, fique a vontade pra me perguntar qualquer coisa ou me convidar para entrevistas através do meu emai: pri.damasceno@live.com
 
 <hr>
 
