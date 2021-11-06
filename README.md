@@ -1,12 +1,12 @@
 <img src="https://i.imgur.com/4p9UJRs.gif" title="source: imgur.com" />
 
 <h1>Hello Stranger!</h1>
- I am Pri, a Junior Full Stack Developer and you're on my github profile - here you can find some projects and study materials. Feel free to ask me any questions or invite me for interviews through my email adress: pri.damasceno@live.com
+ I am Pri, a Junior Java Full Stack Developer and you're on my github profile - here you can find some projects and study materials. Feel free to ask me any questions or invite me for interviews through my email adress: pri.damasceno@live.com
 
 <hr>
 
 <h1>Olá estranho !</h1>
-Eu sou a Pri! Desenvolvedora Fullstack Jr. e você está no meu perfil do github, aqui você encontra alguns projetos e materiais de estudo, fique a vontade pra me perguntar qualquer coisa ou me convidar para entrevistas através do meu emai: pri.damasceno@live.com
+Eu sou a Pri! Desenvolvedora Java Fullstack Jr. e você está no meu perfil do github, aqui você encontra alguns projetos e materiais de estudo, fique a vontade pra me perguntar qualquer coisa ou me convidar para entrevistas através do meu emai: pri.damasceno@live.com
 
 <hr>
 
