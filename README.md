@@ -11,8 +11,8 @@ Eu sou a Pri! Desenvolvedora Java Fullstack Jr. e você está no meu perfil do g
 <a href ="https://api.whatsapp.com/send?phone=5511948956117&text=Ol%C3%A1%2C%20venho%20do%20GitHub!%20vamos%20conversar%3F" target="_blank">
 <img src="https://i.imgur.com/IfS9dq8.png" width="80" height="80" title="Envie uma mensagem no Whatsapp"></a>
 
-<a href="mailto:pri.damasceno@live.com?Subject=Olá! venho do github, vamos conversar?" target="_blank" title="Envie um e-mail!">
-<img src="https://i.imgur.com/2f4Fmv6.png" width="80" height="80">
+<a href="mailto:pri.damasceno@live.com?Subject=Olá! venho do github, vamos conversar?" target="_blank">
+<img src="https://i.imgur.com/2f4Fmv6.png" width="80" height="80" title="Envie um e-mail">
 </a>
 
 
