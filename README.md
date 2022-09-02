@@ -19,10 +19,11 @@ Eu sou a Pri! Desenvolvedora Front-End e você está no meu perfil do github, aq
 <img src="https://media.giphy.com/media/QHBLaLygq1fqSuVGNS/giphy.gif" title="here!" width="70" height="70" align="center" />
 <p align="center">Clique aqui e vamos conversar!</p>
 
-
+<div align="center">
 
 <h3>"Over here, stranger."</h3>
 
 Venha conhecer meus projetos!
 
-<a href="https://github.com/PriscilaDamaceno?tab=repositories"><img src="https://imgur.com/a/sPQZ39d" title="source: imgur.com" /></a>
+<a href="https://github.com/PriscilaDamaceno?tab=repositories"><img src="https://i.imgur.com/HcE3Uy6.png" alt="Employee data" title="Employee Data title"></a>
+</div>
