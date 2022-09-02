@@ -25,4 +25,4 @@ Eu sou a Pri! Desenvolvedora Front-End e você está no meu perfil do github, aq
 
 Venha conhecer meus projetos!
 
-<a href="https://github.com/PriscilaDamaceno?tab=repositories"><img src="https://i.imgur.com/sXbYf3Z.png" title="source: imgur.com" /></a>
+<a href="https://github.com/PriscilaDamaceno?tab=repositories"><img src="https://imgur.com/a/sPQZ39d" title="source: imgur.com" /></a>
