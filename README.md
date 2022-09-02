@@ -5,7 +5,7 @@
 <hr>
 
 <h1>Olá estranho !</h1>
-Eu sou a Pri! Desenvolvedora Front-End e você está no meu perfil do github, aqui você encontra alguns projetos e materiais de estudo, fique a vontade pra me perguntar qualquer coisa ou me convidar para entrevistas
+Eu sou a Pri! Desenvolvedora Front-End e você está no meu perfil do github, aqui você encontra alguns projetos e materiais de estudo, fique a vontade para perguntar qualquer coisa ou me convidar para entrevistas
 
 <p><p align="center">
 <a href ="https://api.whatsapp.com/send?phone=5511948956117&text=Ol%C3%A1%2C%20venho%20do%20GitHub!%20vamos%20conversar%3F" target="_blank">
