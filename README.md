@@ -1,29 +1,44 @@
-<img src="https://i.imgur.com/4p9UJRs.gif" title="Hello!" align="right"/>
+ 
+<a href="https://imgur.com/6m8fTvu"><img src="https://i.imgur.com/6m8fTvu.gif" title="source: imgur.com" width="150"/></a>
 
-<h1>Hello Stranger!</h1>
- I am Pri, a Front-End Developer and you're on my github profile - here you can find some projects and study materials. Feel free to ask me any questions or invite me for interviews
-<hr>
 
-<h1>Olá estranho !</h1>
-Eu sou a Pri! Desenvolvedora Front-End e você está no meu perfil do github, aqui você encontra alguns projetos e materiais de estudo, fique a vontade para perguntar qualquer coisa ou me convidar para entrevistas
+Eu sou a Pri
 
-<p><p align="center">
-<a href ="https://api.whatsapp.com/send?phone=5511948956117&text=Ol%C3%A1%2C%20venho%20do%20GitHub!%20vamos%20conversar%3F" target="_blank">
-<img src="https://i.imgur.com/IfS9dq8.png" width="50" height="50" title="Me envie uma mensagem no Whatsapp!"></a>
-&#8195;
-<a href="mailto:pri.damasceno@live.com?Subject=Olá! venho do github, vamos conversar?" target="_blank">
-<img src="https://i.imgur.com/2f4Fmv6.png" width="50" height="50" title="Envie um e-mail">
-</a>
- <br>
- &#8195;
-<img src="https://media.giphy.com/media/QHBLaLygq1fqSuVGNS/giphy.gif" title="here!" width="70" height="70" align="center" />
-<p align="center">Clique aqui e vamos conversar!</p>
+super gente boa <a href="https://imgur.com/VgPXTHz"><img src="https://i.imgur.com/VgPXTHz.gif" title="source: imgur.com" width="200" height="150" /></a>
 
-<div align="center">
 
-<h3>"Over here, stranger."</h3>
+🌌 JediCoder | CTO na Experts Flows 🚀
 
-Venha conhecer meus projetos!
+💻 Desenvolvedora Front-End 
 
-<a href="https://github.com/PriscilaDamaceno?tab=repositories"><img src="https://i.imgur.com/HcE3Uy6.png" alt="Employee data" title="Employee Data title"></a>
-</div>
+🌟 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+
+📚 Aprendiz na I2A2 AI Para Indústria | Procurando equilibrar a Força entre código e IA
+
+🚀 Atravessando a galáxia do desenvolvimento front-end ao posto de CTO. 💪 Liderando a Rebelião do Código na Experts Flows.  <a href="https://imgur.com/rE6JI80"><img src="https://i.imgur.com/rE6JI80.gif" title="source: imgur.com" width="300" height="150" /></a>
+
+🔧 Que a Força do código esteja com você! 
+
+🌟 Unindo a paixão por Star Wars e a arte da programação para criar soluções mais rápidas do que a velocidade da Millennium Falcon.
+<a href="https://imgur.com/TtmOdQ0"><img src="https://i.imgur.com/TtmOdQ0.gif" title="source: imgur.com" /></a>
+
+
+ 💡 Criando interfaces impressionantes como os hologramas de Obi-Wan Kenobi.
+<a href="https://imgur.com/vHV1EKi"><img src="https://i.imgur.com/vHV1EKi.gif" title="source: imgur.com" width="300" height="150"/></a>
+
+<a href="https://imgur.com/1h4yt6r"><img src="https://i.imgur.com/1h4yt6r.gif" title="source: imgur.com" /></a>
+💥 Que os bugs tremam ao ouvir meu nome!
+
+🔭 Explorando novos planetas de frameworks e bibliotecas. 
+
+💫 Constantemente em busca de aprimoramento e dominando as últimas tendências da galáxia tecnológica.
+
+<a href="https://imgur.com/1LtkJx8"><img src="https://i.imgur.com/1LtkJx8.gif" title="source: imgur.com" width="300" height="200"/></a>
+
+
+ 🌌 Que possamos sempre alcançar o hyperdrive do conhecimento!
+
+
+<a href="https://imgur.com/qhbE8oK"><img src="https://i.imgur.com/qhbE8oK.gif" title="source: imgur.com" width="350" height="300"/></a>
+
+
