@@ -15,7 +15,7 @@ super gente boa <a href="https://imgur.com/VgPXTHz"><img src="https://i.imgur.co
 
 📚 Aprendiz na I2A2 AI Para Indústria | Procurando equilibrar a Força entre código e IA
 
-🚀 Atravessando a galáxia do desenvolvimento front-end ao posto de CTO. 💪 Liderando a Rebelião do Código na Experts Flows.  <a href="https://imgur.com/rE6JI80"><img src="https://i.imgur.com/rE6JI80.gif" title="source: imgur.com" width="300" height="150" /></a>
+🚀 Atravessando a galáxia do desenvolvimento front-end ao posto de CTO. 💪 Liderando a Rebelião na Experts Flows.  <a href="https://imgur.com/rE6JI80"><img src="https://i.imgur.com/rE6JI80.gif" title="source: imgur.com" width="300" height="150" /></a>
 
 🔧 Que a Força do código esteja com você! 
 
