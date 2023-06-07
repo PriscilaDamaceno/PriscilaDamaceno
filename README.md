@@ -23,8 +23,11 @@ super gente boa <a href="https://imgur.com/VgPXTHz"><img src="https://i.imgur.co
 <a href="https://imgur.com/TtmOdQ0"><img src="https://i.imgur.com/TtmOdQ0.gif" title="source: imgur.com" /></a>
 
 
+
  💡 Criando interfaces impressionantes como os hologramas de Obi-Wan Kenobi.
 <a href="https://imgur.com/vHV1EKi"><img src="https://i.imgur.com/vHV1EKi.gif" title="source: imgur.com" width="300" height="150"/></a>
+
+🤖 Mestre do Node-RED, utilizando a Força para automatizar fluxos e criar jornadas tecnológicas épicas. 
 
 <a href="https://imgur.com/1h4yt6r"><img src="https://i.imgur.com/1h4yt6r.gif" title="source: imgur.com" /></a>
 💥 Que os bugs tremam ao ouvir meu nome!
