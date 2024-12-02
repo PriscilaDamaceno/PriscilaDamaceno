@@ -17,7 +17,7 @@
 
 ## 🌟 Skills Jedi
 
-- **Linguagens:** HTML, CSS, JavaScript, TypeScript, SQL
+- **Skills:** HTML, CSS, JavaScript, TypeScript, SQL
 - **Frameworks & Ferramentas:** Angular, Bootstrap, Node-RED, ng-apexcharts, Vite
 - **Inteligência Artificial:** Criação de prompts, automações com APIs OpenAI e Microsoft Copilot
 - **Design:** Prototipagem em Design Sprints e desenvolvimento de interfaces incríveis.
