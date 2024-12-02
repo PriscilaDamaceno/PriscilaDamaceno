@@ -1,47 +1,45 @@
- 
 <a href="https://imgur.com/6m8fTvu"><img src="https://i.imgur.com/6m8fTvu.gif" title="source: imgur.com" width="150"/></a>
 
+# Eu sou a Pri 🚀
 
-Eu sou a Pri
+🌌 **JediCoder** | **CTO na Experts Flows**  
+💻 **Desenvolvedora Front-End** apaixonada por criar interfaces que impressionam tanto quanto os hologramas de Obi-Wan Kenobi.  
+📚 **Formada em Análise e Desenvolvimento de Sistemas na FIAP.**  
+🤖 **Mestre em Node-RED**, utilizando a Força para construir soluções automatizadas e épicas.  
+🧠 Aprendiz na **I2A2 AI Para Indústria**, onde exploro o equilíbrio entre código e inteligência artificial.
 
-super gente boa <a href="https://imgur.com/VgPXTHz"><img src="https://i.imgur.com/VgPXTHz.gif" title="source: imgur.com" width="200" height="150" /></a>
+<a href="https://imgur.com/VgPXTHz"><img src="https://i.imgur.com/VgPXTHz.gif" title="source: imgur.com" width="200" height="150" /></a>
+
+---
+<a href="https://imgur.com/rE6JI80"><img src="https://i.imgur.com/rE6JI80.gif" title="source: imgur.com" width="300" height="150" /></a>
+
+---
+
+## 🌟 Skills Jedi
+
+- **Linguagens:** HTML, CSS, JavaScript, TypeScript, SQL
+- **Frameworks & Ferramentas:** Angular, Bootstrap, Node-RED, ng-apexcharts, Vite
+- **Inteligência Artificial:** Criação de prompts, automações com APIs OpenAI e Microsoft Copilot
+- **Design:** Prototipagem em Design Sprints e desenvolvimento de interfaces incríveis.
+
+---
+
+## 🤖 O que me motiva:
+
+💥 Criar interfaces e soluções tecnológicas tão fluídas quanto uma dança com sabres de luz.  
+🌌 Unir criatividade e lógica para transformar ideias em realidades digitais.  
 
 
-🌌 JediCoder | CTO na Experts Flows 🚀
-
-💻 Desenvolvedora Front-End 
-
-🌟 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-
-📚 Aprendiz na I2A2 AI Para Indústria | Procurando equilibrar a Força entre código e IA
-
-🚀 Atravessando a galáxia do desenvolvimento front-end ao posto de CTO. 💪 Liderando a Rebelião na Experts Flows.  <a href="https://imgur.com/rE6JI80"><img src="https://i.imgur.com/rE6JI80.gif" title="source: imgur.com" width="300" height="150" /></a>
-
-🔧 Que a Força do código esteja com você! 
-
-🌟 Unindo a paixão por Star Wars e a arte da programação para criar soluções mais rápidas do que a velocidade da Millennium Falcon.
 <a href="https://imgur.com/TtmOdQ0"><img src="https://i.imgur.com/TtmOdQ0.gif" title="source: imgur.com" /></a>
 
+---
 
+## 📫 Entre em contato:
 
- 💡 Criando interfaces impressionantes como os hologramas de Obi-Wan Kenobi.
-<a href="https://imgur.com/vHV1EKi"><img src="https://i.imgur.com/vHV1EKi.gif" title="source: imgur.com" width="300" height="150"/></a>
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pridamaceno/)
+- **YouTube:** [Experts Flows](https://youtube.com/@ExpertsFlows)
 
-🤖 Mestre do Node-RED, utilizando a Força para automatizar fluxos e criar jornadas tecnológicas épicas. 
+---
 
-<a href="https://imgur.com/1h4yt6r"><img src="https://i.imgur.com/1h4yt6r.gif" title="source: imgur.com" /></a>
-💥 Que os bugs tremam ao ouvir meu nome!
-
-🔭 Explorando novos planetas de frameworks e bibliotecas. 
-
-💫 Constantemente em busca de aprimoramento e dominando as últimas tendências da galáxia tecnológica.
-
-<a href="https://imgur.com/1LtkJx8"><img src="https://i.imgur.com/1LtkJx8.gif" title="source: imgur.com" width="300" height="200"/></a>
-
-
- 🌌 Que possamos sempre alcançar o hyperdrive do conhecimento!
-
-
+Que a Força do código esteja com você! 🌟✨  
 <a href="https://imgur.com/qhbE8oK"><img src="https://i.imgur.com/qhbE8oK.gif" title="source: imgur.com" width="350" height="300"/></a>
-
-
